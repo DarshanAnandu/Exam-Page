@@ -1,0 +1,28 @@
+{
+  "name": "Exam-Page",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "antd": "^5.9.4",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-multi-carousel": "^2.8.4",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "ua-parser-js": "^1.0.36"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "^8.4.30",
+    "tailwindcss": "^3.3.3"
+  }
+}
